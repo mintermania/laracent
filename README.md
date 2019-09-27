@@ -12,7 +12,8 @@
 
 
 ## Introduction
-Centrifugo broadcaster for laravel >= 5.7 is fork of [centrifuge-broadcaster](https://github.com/LaraComponents/centrifuge-broadcaster), based on:
+
+It is fork suitable for laravel 6 of Centrifugo broadcaster for laravel >= 5.7 is fork of [centrifuge-broadcaster](https://github.com/LaraComponents/centrifuge-broadcaster), based on:
 - [LaraComponents/centrifuge-broadcaster](https://github.com/LaraComponents/centrifuge-broadcaster)
 - [centrifugal/phpcent](https://github.com/centrifugal/phpcent)
 
@@ -23,8 +24,8 @@ Centrifugo broadcaster for laravel >= 5.7 is fork of [centrifuge-broadcaster](ht
 
 ## Requirements
 
-- PHP 7.2.12+ or newer
-- Laravel 5.7 or newer
+- PHP 7.3+ or newer
+- Laravel 6 or newer
 - Centrifugo Server 2.1.0 or newer (see [here](https://github.com/centrifugal/centrifugo))
 
 ## Dependencies
@@ -36,7 +37,7 @@ Centrifugo broadcaster for laravel >= 5.7 is fork of [centrifuge-broadcaster](ht
 Require this package with composer:
 
 ```bash
-composer require alex-hnydiuk/laracent
+composer require mintermania/laracent
 ```
 
 Open your config/app.php and add the following to the providers array:
