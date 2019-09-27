@@ -6,19 +6,19 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "MinterMania",
-            "email": "mintermania@gmail.com"
+            "name": "Alex Hnydiuk",
+            "email": "o.hnydiuk@gmail.com"
         }
     ],
-    "homepage": "https://github.com/mintermania/laracent",
+    "homepage": "https://github.com/AlexHnydiuk/laracent",
     "support": {
-        "issues": "https://github.com/mintermania/laracent/issues",
-        "source": "https://github.com/mintermania/laracent"
+        "issues": "https://github.com/AlexHnydiuk/laracent/issues",
+        "source": "https://github.com/AlexHnydiuk/laracent"
     },
     "require": {
         "php": ">=7.2.12",
         "laravel/framework": "^6.0.4",
-        "guzzlehttp/guzzle": "^6.3.3",
+        "guzzlehttp/guzzle": "^6.2",
         "illuminate/broadcasting": "^6.0.4"
     },
     "require-dev": {
