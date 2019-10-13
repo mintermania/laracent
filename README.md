@@ -1,5 +1,5 @@
 <h1 align="center">LARAvel + CENTrifugo = Laracent</h1>
-<h2 align="center">Centrifugo broadcast driver for Laravel 5</h2>
+<h2 align="center">Centrifugo broadcast driver for Laravel 6</h2>
 
 <p align="center">
 <a href="https://travis-ci.org/AlexHnydiuk/laracent"><img src="https://travis-ci.org/AlexHnydiuk/laracent.svg?branch=master" alt="Build Status"></a>
