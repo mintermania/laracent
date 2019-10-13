@@ -80,7 +80,7 @@ class LaracentBroadcaster extends Broadcaster
      */
     public function broadcast(array $channels, $event, array $payload = [])
     {
-        $payload['event'] = $event;
+//        $payload['event'] = $event;
 
         $response = $this->centrifugo->broadcast($this->formatChannels($channels), $payload);
 
